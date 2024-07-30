@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\UITests.csproj": {}
+    "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\UITests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj": {
+    "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj",
+        "projectUniqueName": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj",
         "projectName": "PlaywrightTests",
-        "projectPath": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj",
+        "projectPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj",
         "packagesPath": "C:\\Users\\PC_4176\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\PlaywrightTests\\obj\\",
+        "outputPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\PlaywrightTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC_4176\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\UITests.csproj": {
+    "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\UITests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\UITests.csproj",
+        "projectUniqueName": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\UITests.csproj",
         "projectName": "UITests",
-        "projectPath": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\UITests.csproj",
+        "projectPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\UITests.csproj",
         "packagesPath": "C:\\Users\\PC_4176\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\obj\\",
+        "outputPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC_4176\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,8 +118,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj": {
-                "projectPath": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj"
+              "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj": {
+                "projectPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj"
               }
             }
           }

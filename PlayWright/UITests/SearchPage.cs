@@ -23,7 +23,8 @@ namespace PlaywrightTests
         public SearchPage(IPage page)
         {
             _page = page;
-            this.locationDd = _page.Locator("#location");
+            this.locationDd = _page.Locator("select[name='location'][id='location'][class='search_combobox']");
+            // <select name="location" class="search_combobox" id="location">
             this.hotelsDd = _page.Locator("#hotels");
             this.roomTypeDd = _page.Locator("#room_type");
             this.numberOfRoomsDd = _page.Locator("#room_nos");

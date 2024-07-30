@@ -1,0 +1,80 @@
+2024-07-30T08:13:41.312Z pw:api navigating to "https://adactinhotelapp.com/", waiting until "load"
+2024-07-30T08:13:42.418Z pw:api   "commit" event fired
+2024-07-30T08:13:42.418Z pw:api   navigated to "https://adactinhotelapp.com/"
+2024-07-30T08:13:42.797Z pw:api   "domcontentloaded" event fired
+2024-07-30T08:13:45.373Z pw:api   "load" event fired
+2024-07-30T08:13:45.374Z pw:api navigating to "https://adactinhotelapp.com/", waiting until "load"
+2024-07-30T08:13:45.381Z pw:api   "commit" event fired
+2024-07-30T08:13:45.381Z pw:api   navigated to "https://adactinhotelapp.com/"
+2024-07-30T08:13:45.382Z pw:api   "domcontentloaded" event fired
+2024-07-30T08:13:45.402Z pw:api   "load" event fired
+2024-07-30T08:13:45.403Z pw:api waiting for Locator("#username")
+2024-07-30T08:13:45.414Z pw:api   locator resolved to <input value="" type="text" id="username" name="username" class="login_input"/>
+2024-07-30T08:13:45.415Z pw:api   fill("honurbural")
+2024-07-30T08:13:45.415Z pw:api attempting fill action
+2024-07-30T08:13:45.415Z pw:api   waiting for element to be visible, enabled and editable
+2024-07-30T08:13:45.422Z pw:api waiting for Locator("#password")
+2024-07-30T08:13:45.423Z pw:api   locator resolved to <input value="" id="password" type="password" name="password" class="login_input"/>
+2024-07-30T08:13:45.424Z pw:api   fill("123456")
+2024-07-30T08:13:45.424Z pw:api attempting fill action
+2024-07-30T08:13:45.424Z pw:api   waiting for element to be visible, enabled and editable
+2024-07-30T08:13:45.428Z pw:api waiting for Locator("input[type='Submit'][name='login'][id='login'][class='login_button'][value='Login']")
+2024-07-30T08:13:45.429Z pw:api   locator resolved to <input id="login" name="login" type="Submit" value="Login" class="login_button"/>
+2024-07-30T08:13:45.430Z pw:api attempting click action
+2024-07-30T08:13:45.430Z pw:api   waiting for element to be visible, enabled and stable
+2024-07-30T08:13:45.452Z pw:api   element is visible, enabled and stable
+2024-07-30T08:13:45.452Z pw:api   scrolling into view if needed
+2024-07-30T08:13:45.453Z pw:api   done scrolling
+2024-07-30T08:13:45.455Z pw:api   performing click action
+2024-07-30T08:13:45.459Z pw:api   click action done
+2024-07-30T08:13:45.459Z pw:api   waiting for scheduled navigations to finish
+2024-07-30T08:13:46.073Z pw:api   "commit" event fired
+2024-07-30T08:13:46.073Z pw:api   navigated to "https://adactinhotelapp.com/SearchHotel.php"
+2024-07-30T08:13:46.073Z pw:api   navigated to "https://adactinhotelapp.com/SearchHotel.php"
+2024-07-30T08:13:46.074Z pw:api   navigations have finished
+2024-07-30T08:13:46.076Z pw:api waiting for Locator("select[name='location'][id='location'][class='search_combobox']")
+2024-07-30T08:13:46.389Z pw:api   "domcontentloaded" event fired
+2024-07-30T08:13:46.404Z pw:api   "load" event fired
+2024-07-30T08:13:46.404Z pw:api   locator resolved to <select id="location" name="location" class="search_combobox">ÔÇĞ</select>
+2024-07-30T08:13:46.405Z pw:api elementHandle.type("Sydney")
+2024-07-30T08:13:46.411Z pw:api waiting for Locator("#Submit")
+2024-07-30T08:13:46.412Z pw:api   locator resolved to <input id="Submit" type="submit" name="Submit" value="Search" class="reg_button"/>
+2024-07-30T08:13:46.413Z pw:api attempting click action
+2024-07-30T08:13:46.413Z pw:api   waiting for element to be visible, enabled and stable
+2024-07-30T08:13:46.436Z pw:api   element is visible, enabled and stable
+2024-07-30T08:13:46.436Z pw:api   scrolling into view if needed
+2024-07-30T08:13:46.436Z pw:api   done scrolling
+2024-07-30T08:13:46.437Z pw:api   performing click action
+2024-07-30T08:13:46.441Z pw:api   click action done
+2024-07-30T08:13:46.441Z pw:api   waiting for scheduled navigations to finish
+2024-07-30T08:13:46.753Z pw:api   "commit" event fired
+2024-07-30T08:13:46.753Z pw:api   navigated to "https://adactinhotelapp.com/SelectHotel.php"
+2024-07-30T08:13:46.753Z pw:api   navigated to "https://adactinhotelapp.com/SelectHotel.php"
+2024-07-30T08:13:46.755Z pw:api   navigations have finished
+2024-07-30T08:13:46.756Z pw:api waiting for Locator("#radiobutton_2")
+2024-07-30T08:13:47.063Z pw:api   "domcontentloaded" event fired
+2024-07-30T08:13:47.066Z pw:api   locator resolved to <input value="2" type="radio" id="radiobutton_2" name="radiobutton_2" onclick="check_uncheck2();"/>
+2024-07-30T08:13:47.067Z pw:api attempting click action
+2024-07-30T08:13:47.067Z pw:api   waiting for element to be visible, enabled and stable
+2024-07-30T08:13:47.080Z pw:api   "load" event fired
+2024-07-30T08:13:47.086Z pw:api   element is visible, enabled and stable
+2024-07-30T08:13:47.086Z pw:api   scrolling into view if needed
+2024-07-30T08:13:47.086Z pw:api   done scrolling
+2024-07-30T08:13:47.087Z pw:api   performing click action
+2024-07-30T08:13:47.090Z pw:api   click action done
+2024-07-30T08:13:47.090Z pw:api   waiting for scheduled navigations to finish
+2024-07-30T08:13:47.090Z pw:api   navigations have finished
+2024-07-30T08:13:47.091Z pw:api waiting for Locator("#continue")
+2024-07-30T08:13:47.092Z pw:api   locator resolved to <input type="submit" id="continue" name="continue" value="Continue" class="reg_button"/>
+2024-07-30T08:13:47.093Z pw:api attempting click action
+2024-07-30T08:13:47.093Z pw:api   waiting for element to be visible, enabled and stable
+2024-07-30T08:13:47.119Z pw:api   element is visible, enabled and stable
+2024-07-30T08:13:47.119Z pw:api   scrolling into view if needed
+2024-07-30T08:13:47.119Z pw:api   done scrolling
+2024-07-30T08:13:47.120Z pw:api   performing click action
+2024-07-30T08:13:47.126Z pw:api   click action done
+2024-07-30T08:13:47.126Z pw:api   waiting for scheduled navigations to finish
+2024-07-30T08:13:47.428Z pw:api   "commit" event fired
+2024-07-30T08:13:47.428Z pw:api   navigated to "https://adactinhotelapp.com/BookHotel.php"
+2024-07-30T08:13:47.428Z pw:api   navigated to "https://adactinhotelapp.com/BookHotel.php"
+2024-07-30T08:13:47.428Z pw:api   navigations have finished

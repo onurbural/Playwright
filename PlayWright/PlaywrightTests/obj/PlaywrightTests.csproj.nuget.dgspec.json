@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj": {}
+    "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj": {
+    "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj",
+        "projectUniqueName": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj",
         "projectName": "PlaywrightTests",
-        "projectPath": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj",
+        "projectPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\PlaywrightTests\\PlaywrightTests.csproj",
         "packagesPath": "C:\\Users\\PC_4176\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\PlaywrightTests\\obj\\",
+        "outputPath": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\PlaywrightTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC_4176\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -19,7 +19,9 @@ namespace UITests
             _page = page;
             userNameTxt = _page.Locator("#username");
             passwordTxt = _page.Locator("#password");
-            loginBtn = _page.Locator("#login");
+            loginBtn = _page.Locator("input[type='Submit'][name='login'][id='login'][class='login_button'][value='Login']");
+            //      <input type="Submit" name="login" id="login" class="login_button" value="Login">
+
         }
 
         public async Task LoginTest(string userName, string password, string url)
