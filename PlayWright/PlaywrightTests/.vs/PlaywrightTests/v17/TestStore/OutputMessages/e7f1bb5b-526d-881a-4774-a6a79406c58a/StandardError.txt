@@ -1,0 +1,81 @@
+2024-07-31T04:52:48.579Z pw:api navigating to "https://demoblaze.com/", waiting until "load"
+2024-07-31T04:52:49.830Z pw:api   "commit" event fired
+2024-07-31T04:52:49.830Z pw:api   navigated to "https://demoblaze.com/"
+2024-07-31T04:52:52.855Z pw:api   "domcontentloaded" event fired
+2024-07-31T04:52:52.863Z pw:api   "load" event fired
+2024-07-31T04:52:52.867Z pw:api waiting for Locator("//a[text()='Log in']")
+2024-07-31T04:52:52.878Z pw:api   locator resolved to <a href="#" id="login2" class="nav-link" data-toggle="modal" data-target="#logInModal">Log in</a>
+2024-07-31T04:52:52.879Z pw:api attempting click action
+2024-07-31T04:52:52.880Z pw:api   waiting for element to be visible, enabled and stable
+2024-07-31T04:52:52.899Z pw:api   element is visible, enabled and stable
+2024-07-31T04:52:52.899Z pw:api   scrolling into view if needed
+2024-07-31T04:52:52.900Z pw:api   done scrolling
+2024-07-31T04:52:52.902Z pw:api   performing click action
+2024-07-31T04:52:52.908Z pw:api   click action done
+2024-07-31T04:52:52.908Z pw:api   waiting for scheduled navigations to finish
+2024-07-31T04:52:52.909Z pw:api   navigations have finished
+2024-07-31T04:52:52.910Z pw:api waiting for Locator("#loginusername")
+2024-07-31T04:52:52.912Z pw:api   locator resolved to <input type="text" id="loginusername" class="form-control"/>
+2024-07-31T04:52:52.913Z pw:api   fill("test43@gmail.com")
+2024-07-31T04:52:52.913Z pw:api attempting fill action
+2024-07-31T04:52:52.913Z pw:api   waiting for element to be visible, enabled and editable
+2024-07-31T04:52:52.914Z pw:api   element is not visible
+2024-07-31T04:52:52.914Z pw:api retrying fill action, attempt #1
+2024-07-31T04:52:52.914Z pw:api   waiting for element to be visible, enabled and editable
+2024-07-31T04:52:52.916Z pw:api   element is not visible
+2024-07-31T04:52:52.916Z pw:api retrying fill action, attempt #2
+2024-07-31T04:52:52.916Z pw:api   waiting 20ms
+2024-07-31T04:52:52.938Z pw:api   waiting for element to be visible, enabled and editable
+2024-07-31T04:52:52.939Z pw:api   element is not visible
+2024-07-31T04:52:52.939Z pw:api retrying fill action, attempt #3
+2024-07-31T04:52:52.939Z pw:api   waiting 100ms
+2024-07-31T04:52:53.047Z pw:api   waiting for element to be visible, enabled and editable
+2024-07-31T04:52:53.053Z pw:api   element is not visible
+2024-07-31T04:52:53.053Z pw:api retrying fill action, attempt #4
+2024-07-31T04:52:53.053Z pw:api   waiting 100ms
+2024-07-31T04:52:53.154Z pw:api   waiting for element to be visible, enabled and editable
+2024-07-31T04:52:53.163Z pw:api waiting for Locator("[id='loginpassword']")
+2024-07-31T04:52:53.166Z pw:api   locator resolved to <input type="password" id="loginpassword" class="form-control"/>
+2024-07-31T04:52:53.167Z pw:api   fill("123456")
+2024-07-31T04:52:53.167Z pw:api attempting fill action
+2024-07-31T04:52:53.167Z pw:api   waiting for element to be visible, enabled and editable
+2024-07-31T04:52:53.175Z pw:api waiting for Locator("button[class='btn btn-primary']").Nth(2)
+2024-07-31T04:52:53.177Z pw:api   locator resolved to <button type="button" onclick="logIn()" class="btn btn-primary">Log in</button>
+2024-07-31T04:52:53.178Z pw:api attempting click action
+2024-07-31T04:52:53.178Z pw:api   waiting for element to be visible, enabled and stable
+2024-07-31T04:52:53.199Z pw:api   element is not stable
+2024-07-31T04:52:53.199Z pw:api retrying click action, attempt #1
+2024-07-31T04:52:53.199Z pw:api   waiting for element to be visible, enabled and stable
+2024-07-31T04:52:53.232Z pw:api   element is not stable
+2024-07-31T04:52:53.233Z pw:api retrying click action, attempt #2
+2024-07-31T04:52:53.233Z pw:api   waiting 20ms
+2024-07-31T04:52:53.254Z pw:api   waiting for element to be visible, enabled and stable
+2024-07-31T04:52:53.285Z pw:api   element is not stable
+2024-07-31T04:52:53.285Z pw:api retrying click action, attempt #3
+2024-07-31T04:52:53.285Z pw:api   waiting 100ms
+2024-07-31T04:52:53.398Z pw:api   waiting for element to be visible, enabled and stable
+2024-07-31T04:52:53.432Z pw:api   element is visible, enabled and stable
+2024-07-31T04:52:53.432Z pw:api   scrolling into view if needed
+2024-07-31T04:52:53.433Z pw:api   done scrolling
+2024-07-31T04:52:53.435Z pw:api   performing click action
+2024-07-31T04:52:53.438Z pw:api   click action done
+2024-07-31T04:52:53.438Z pw:api   waiting for scheduled navigations to finish
+2024-07-31T04:52:53.439Z pw:api   navigations have finished
+2024-07-31T04:52:55.954Z pw:api LocatorAssertions.ToBeVisibleAsync with timeout 5000ms
+2024-07-31T04:52:55.954Z pw:api waiting for Locator("//a[@id='logout2']")
+2024-07-31T04:52:57.066Z pw:api   "commit" event fired
+2024-07-31T04:52:57.066Z pw:api   navigated to "https://demoblaze.com/"
+2024-07-31T04:52:57.092Z pw:api   "domcontentloaded" event fired
+2024-07-31T04:52:57.094Z pw:api   "load" event fired
+2024-07-31T04:52:57.177Z pw:api   locator resolved to <a href="#" id="logout2" class="nav-link" onclick="logOut()">Log out</a>
+2024-07-31T04:52:57.177Z pw:api   unexpected value "hidden"
+2024-07-31T04:52:57.177Z pw:api   locator resolved to <a href="#" id="logout2" class="nav-link" onclick="logOut()">Log out</a>
+2024-07-31T04:52:57.178Z pw:api   unexpected value "hidden"
+2024-07-31T04:52:57.292Z pw:api   locator resolved to <a href="#" id="logout2" class="nav-link" onclick="logOut()">Log out</a>
+2024-07-31T04:52:57.292Z pw:api   unexpected value "hidden"
+2024-07-31T04:52:57.555Z pw:api   locator resolved to <a href="#" id="logout2" class="nav-link" onclick="logOut()">Log out</a>
+2024-07-31T04:52:57.555Z pw:api   unexpected value "hidden"
+2024-07-31T04:52:58.064Z pw:api   locator resolved to <a href="#" id="logout2" class="nav-link" onclick="logOut()">Log out</a>
+2024-07-31T04:52:58.064Z pw:api   unexpected value "hidden"
+2024-07-31T04:52:58.982Z pw:api   "networkidle" event fired
+2024-07-31T04:52:59.078Z pw:api   locator resolved to <a href="#" id="logout2" class="nav-link" onclick="logOut()">Log out</a>

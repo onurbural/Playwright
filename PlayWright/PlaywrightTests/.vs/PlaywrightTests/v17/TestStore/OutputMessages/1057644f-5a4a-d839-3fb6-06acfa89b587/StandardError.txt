@@ -1,0 +1,53 @@
+2024-07-31T04:53:33.513Z pw:api navigating to "https://adactinhotelapp.com/", waiting until "load"
+2024-07-31T04:53:34.383Z pw:api   "commit" event fired
+2024-07-31T04:53:34.383Z pw:api   navigated to "https://adactinhotelapp.com/"
+2024-07-31T04:53:34.744Z pw:api   "domcontentloaded" event fired
+2024-07-31T04:53:39.767Z pw:api   "load" event fired
+2024-07-31T04:53:39.769Z pw:api navigating to "https://adactinhotelapp.com/", waiting until "load"
+2024-07-31T04:53:39.781Z pw:api   "commit" event fired
+2024-07-31T04:53:39.781Z pw:api   navigated to "https://adactinhotelapp.com/"
+2024-07-31T04:53:39.785Z pw:api   "domcontentloaded" event fired
+2024-07-31T04:53:39.806Z pw:api   "load" event fired
+2024-07-31T04:53:39.806Z pw:api waiting for Locator("#username")
+2024-07-31T04:53:39.819Z pw:api   locator resolved to <input value="" type="text" id="username" name="username" class="login_input"/>
+2024-07-31T04:53:39.819Z pw:api   fill("honurbural")
+2024-07-31T04:53:39.819Z pw:api attempting fill action
+2024-07-31T04:53:39.819Z pw:api   waiting for element to be visible, enabled and editable
+2024-07-31T04:53:39.824Z pw:api waiting for Locator("#password")
+2024-07-31T04:53:39.825Z pw:api   locator resolved to <input value="" id="password" type="password" name="password" class="login_input"/>
+2024-07-31T04:53:39.826Z pw:api   fill("123456")
+2024-07-31T04:53:39.826Z pw:api attempting fill action
+2024-07-31T04:53:39.826Z pw:api   waiting for element to be visible, enabled and editable
+2024-07-31T04:53:39.830Z pw:api waiting for Locator("input[type='Submit'][name='login'][id='login'][class='login_button'][value='Login']")
+2024-07-31T04:53:39.832Z pw:api   locator resolved to <input id="login" name="login" type="Submit" value="Login" class="login_button"/>
+2024-07-31T04:53:39.851Z pw:api attempting click action
+2024-07-31T04:53:39.851Z pw:api   waiting for element to be visible, enabled and stable
+2024-07-31T04:53:39.882Z pw:api   element is visible, enabled and stable
+2024-07-31T04:53:39.882Z pw:api   scrolling into view if needed
+2024-07-31T04:53:39.883Z pw:api   done scrolling
+2024-07-31T04:53:39.884Z pw:api   performing click action
+2024-07-31T04:53:39.889Z pw:api   click action done
+2024-07-31T04:53:39.889Z pw:api   waiting for scheduled navigations to finish
+2024-07-31T04:53:40.541Z pw:api   "commit" event fired
+2024-07-31T04:53:40.541Z pw:api   navigated to "https://adactinhotelapp.com/SearchHotel.php"
+2024-07-31T04:53:40.541Z pw:api   navigated to "https://adactinhotelapp.com/SearchHotel.php"
+2024-07-31T04:53:40.542Z pw:api   navigations have finished
+2024-07-31T04:53:40.543Z pw:api waiting for Locator("select[name='location'][id='location'][class='search_combobox']")
+2024-07-31T04:53:40.859Z pw:api   "domcontentloaded" event fired
+2024-07-31T04:53:40.861Z pw:api   locator resolved to <select id="location" name="location" class="search_combobox">ÔÇĞ</select>
+2024-07-31T04:53:40.862Z pw:api elementHandle.type("Sydney")
+2024-07-31T04:53:40.870Z pw:api waiting for Locator("#Submit")
+2024-07-31T04:53:40.872Z pw:api   "load" event fired
+2024-07-31T04:53:40.872Z pw:api   locator resolved to <input id="Submit" type="submit" name="Submit" value="Search" class="reg_button"/>
+2024-07-31T04:53:40.873Z pw:api attempting click action
+2024-07-31T04:53:40.873Z pw:api   waiting for element to be visible, enabled and stable
+2024-07-31T04:53:40.899Z pw:api   element is visible, enabled and stable
+2024-07-31T04:53:40.899Z pw:api   scrolling into view if needed
+2024-07-31T04:53:40.899Z pw:api   done scrolling
+2024-07-31T04:53:40.901Z pw:api   performing click action
+2024-07-31T04:53:41.203Z pw:api   click action done
+2024-07-31T04:53:41.203Z pw:api   waiting for scheduled navigations to finish
+2024-07-31T04:53:41.203Z pw:api   "commit" event fired
+2024-07-31T04:53:41.203Z pw:api   navigated to "https://adactinhotelapp.com/SelectHotel.php"
+2024-07-31T04:53:41.203Z pw:api   navigated to "https://adactinhotelapp.com/SelectHotel.php"
+2024-07-31T04:53:41.205Z pw:api   navigations have finished

@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\PlaywrightTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD53CA79-F4D1-4499-A003-BE9D1C2BDA2F}|..\\UITests\\UITests.csproj|c:\\users\\pc_4176\\desktop\\playwright tutorials\\playwright\\playwright\\uitests\\selectpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD53CA79-F4D1-4499-A003-BE9D1C2BDA2F}|..\\UITests\\UITests.csproj|c:\\users\\pc_4176\\desktop\\playwright tutorials\\playwright\\playwright\\uitests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD53CA79-F4D1-4499-A003-BE9D1C2BDA2F}|..\\UITests\\UITests.csproj|c:\\users\\pc_4176\\desktop\\playwright tutorials\\playwright\\playwright\\uitests\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD53CA79-F4D1-4499-A003-BE9D1C2BDA2F}|..\\UITests\\UITests.csproj|c:\\users\\pc_4176\\desktop\\playwright tutorials\\playwright\\playwright\\uitests\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD53CA79-F4D1-4499-A003-BE9D1C2BDA2F}|..\\UITests\\UITests.csproj|c:\\users\\pc_4176\\desktop\\playwright tutorials\\playwright\\playwright\\uitests\\bookingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\SearchPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2006300F-65FF-4ADF-8B19-A181E3C00701}|PlaywrightTests.csproj|c:\\users\\pc_4176\\desktop\\playwright tutorials\\playwright\\playwright\\playwrighttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2006300F-65FF-4ADF-8B19-A181E3C00701}|PlaywrightTests.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\BookingPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\PlayWright\\SiteTest\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\TestExecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\SelectPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\LoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\BookingPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\SearchPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\SelectPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\LoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\UITests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\SiteTest\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\SiteTest\\SiteTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\LoginPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\SelectPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\PlayWright\\SiteTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\PlayWright\\SiteTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\PlayWright\\SiteTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\PlayWright\\SiteTest\\UnitTest1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:23:26.982Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\PlaywrightTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\PlaywrightTests\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:22:16.427Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\UITests\\LoginPage.cs",
+              "RelativeDocumentMoniker": "..\\UITests\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\UITests\\LoginPage.cs",
+              "RelativeToolTip": "..\\UITests\\LoginPage.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:42:35.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\UITests\\SearchPage.cs",
+              "RelativeDocumentMoniker": "..\\UITests\\SearchPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\UITests\\SearchPage.cs",
+              "RelativeToolTip": "..\\UITests\\SearchPage.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwDkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:30:25.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\UITests\\BookingPage.cs",
+              "RelativeDocumentMoniker": "..\\UITests\\BookingPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\UITests\\BookingPage.cs",
+              "RelativeToolTip": "..\\UITests\\BookingPage.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:38:01.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\UITests\\SelectPage.cs",
+              "RelativeDocumentMoniker": "..\\UITests\\SelectPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\UITests\\SelectPage.cs",
+              "RelativeToolTip": "..\\UITests\\SelectPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:30:20.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\UITests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UITests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Playwright Tutorials\\Playwright\\PlayWright\\UITests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UITests\\UnitTest1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:54:07.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\SearchPage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\Playwright\\PlayWright\\UITests\\SearchPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\SearchPage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\Playwright\\PlayWright\\UITests\\SearchPage.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:07:19.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\LoginPage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\Playwright\\PlayWright\\UITests\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\LoginPage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\Playwright\\PlayWright\\UITests\\LoginPage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:02:57.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\Playwright\\PlayWright\\UITests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\Playwright\\PlayWright\\UITests\\UnitTest1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:02:57.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SelectPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\SelectPage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\Playwright\\PlayWright\\UITests\\SelectPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\Playwright\\PlayWright\\UITests\\SelectPage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\Playwright\\PlayWright\\UITests\\SelectPage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:24:08.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\BookingPage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\UITests\\BookingPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\BookingPage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\UITests\\BookingPage.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:55:43.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SelectPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\SelectPage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\UITests\\SelectPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\SelectPage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\UITests\\SelectPage.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:58:13.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\LoginPage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\UITests\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\LoginPage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\UITests\\LoginPage.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:57:36.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\UITests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\UITests\\UnitTest1.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAwwDUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:41:02.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UITests.csproj",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\UITests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\UITests\\UITests.csproj",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\UITests\\UITests.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\UITests\\UITests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T07:41:06.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\SiteTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\SiteTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\SiteTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\SiteTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:31:08.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestExecution.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\TestExecution.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\HotelTestProject\\TestExecution.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\TestExecution.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\HotelTestProject\\TestExecution.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:09:34.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SelectPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\SelectPage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\SelectPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\SelectPage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\SelectPage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:09:09.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\LoginPage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:07:17.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\BookingPage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\BookingPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\BookingPage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\BookingPage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:06:31.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\SearchPage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\SearchPage.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\SearchPage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\HotelTestProject\\Pages\\SearchPage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:08:53.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SiteTest.csproj",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\SiteTest\\SiteTest.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\SiteTest\\SiteTest.csproj",
+              "ToolTip": "C:\\Users\\PC_4176\\Desktop\\Git\\playwrigth\\PlayWright\\SiteTest\\SiteTest.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\Git\\playwrigth\\PlayWright\\SiteTest\\SiteTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T07:05:45.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
